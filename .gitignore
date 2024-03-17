@@ -44,3 +44,5 @@ out/
 /src/main/resources/static/firebase-messaging-sw.js
 /src/main/resources/static/firebase-key.json
 /src/main/webapp/**
+/src/main/java/com.kimdev.SubwayNotify/hidden/HiddenData.java
+/src/main/java/com.kimdev.SubwayNotify/hidden/HiddenData
